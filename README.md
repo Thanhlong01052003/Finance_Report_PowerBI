@@ -18,4 +18,4 @@ Báo cáo này tóm tắt các chỉ số tài chính quan trọng, bao gồm do
 - Lọc theo **sản phẩm**, **năm**, và **tháng** để phân tích chi tiết hơn.  
 
 ## Report Image  
-![Finance Report]()
+![Finance Report](https://github.com/Thanhlong01052003/Finance_Report_PowerBI/blob/master/Finance_report.jpg)
